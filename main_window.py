@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import (QWidget,QHBoxLayout,QVBoxLayout,
+from PyQt6.QtWidgets import (QWidget,QHBoxLayout,QVBoxLayout,
                             QLabel, QPushButton, QRadioButton,
                             QGroupBox, QButtonGroup)
 
